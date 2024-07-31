@@ -16,5 +16,5 @@ export class HttpClient {
         return { data, status: resp.status }
     }
 
-
+ 
 }
